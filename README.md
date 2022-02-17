@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @RaphaelCintra
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning Kotlin for Android App´s
-- 💞️ I’m looking to collaborate on every aspect i can
-- 📫 How to reach me by email
+Hi, my name is RaphaelCintra, i´m from São Paulo/Brazil and i´m currently learning mobile programing usind Kotlin and Android Studio, from the very beginning.
 
-<!---
-RaphaelCintra/RaphaelCintra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Despite my long career in the international business, i decided to amplify my professional background merging two of my passions wich are IT and marketing; i do beleive that the future will continue pushing mobility to very high standards with a big and special focus in deliver the best user experience possible.
 
-Atualização no main com resolução.
+I would like to share experiences, projects and learn with all the Github community. 
+
+Please feel free to reach me by email and i'll be glad to cooperate.
+
 
